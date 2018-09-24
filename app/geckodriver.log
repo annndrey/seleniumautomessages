@@ -1,0 +1,374 @@
+1532306268964	geckodriver	INFO	geckodriver 0.21.0
+1532306268973	geckodriver	INFO	Listening on 127.0.0.1:56187
+1532306269973	mozrunner::runner	INFO	Running command: "/home/annndrey/work/firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8qCX7vJixqFH"
+1532306271998	Marionette	INFO	Listening on port 40963
+1532306272082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532306276206&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Fen%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Fen%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532306287841&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+1532306310088	geckodriver	INFO	geckodriver 0.21.0
+1532306310094	geckodriver	INFO	Listening on 127.0.0.1:55595
+1532306311107	mozrunner::runner	INFO	Running command: "/home/annndrey/work/firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cU10iul9Tdfm"
+1532306313909	Marionette	INFO	Listening on port 43857
+1532306313922	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19086, Gecko_IOThread] WARNING: pipe error (95): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532306319391&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Fen%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Fen%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532306327647&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532306331884&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711004&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711004&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532306401330&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711004&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711004&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532306406405&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711004&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+1532342003541	geckodriver	INFO	geckodriver 0.21.0
+1532342003566	geckodriver	INFO	Listening on 127.0.0.1:39457
+1532342004553	mozrunner::runner	INFO	Running command: "/home/annndrey/work/firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xOdLsqySpfKQ"
+*** You are running in headless mode.
+1532342006761	Marionette	INFO	Listening on port 45683
+1532342006769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342014248&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Fen%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Fen%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342022698&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342027087&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5712778&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5712778&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342032525&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342034683&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711544&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711544&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342104032&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711544&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711544&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342109121&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-s%2Fid-5711544&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342177317&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342181108&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342249405&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342252990&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342321644&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342325932&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342395427&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342399016&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342466229&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342470845&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342540570&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342544740&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342613043&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342616795&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342685691&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342689992&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342759228&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342763405&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342832828&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342837201&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342906800&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342911832&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342980411&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532342983932&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532343053510&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532343057075&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532343125059&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532343128627&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532343196251&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532343200271&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+1532415906199	geckodriver	INFO	geckodriver 0.21.0
+1532415906223	geckodriver	INFO	Listening on 127.0.0.1:57507
+1532416005564	geckodriver	INFO	geckodriver 0.21.0
+1532416005570	geckodriver	INFO	Listening on 127.0.0.1:60259
+1532416006592	mozrunner::runner	INFO	Running command: "/home/annndrey/work/firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1XYuR3bgRm6b"
+*** You are running in headless mode.
+1532416011415	Marionette	INFO	Listening on port 41547
+1532416011451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532416015516&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532416022606&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+1532417718566	geckodriver	INFO	geckodriver 0.21.0
+1532417718572	geckodriver	INFO	Listening on 127.0.0.1:35701
+1532417719586	mozrunner::runner	INFO	Running command: "/home/annndrey/work/firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1uD1u1rFWSbk"
+1532417729321	Marionette	INFO	Listening on port 34243
+1532417729347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532417733863&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532417748589&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4825, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4825, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4825, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532417831688	geckodriver	INFO	geckodriver 0.21.0
+1532417831702	geckodriver	INFO	Listening on 127.0.0.1:35201
+1532417832697	mozrunner::runner	INFO	Running command: "/home/annndrey/work/firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WEQQOclM0nfJ"
+1532417847234	Marionette	INFO	Listening on port 44411
+1532417847278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532417851308&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+[Child 5121, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5121, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5121, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5121, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5121, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5121, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5121, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 5121, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1532417864195	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532417894337	geckodriver	INFO	geckodriver 0.21.0
+1532417894343	geckodriver	INFO	Listening on 127.0.0.1:55271
+1532417895343	mozrunner::runner	INFO	Running command: "/home/annndrey/work/firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EW1Am3Q5l2GU"
+1532417906536	Marionette	INFO	Listening on port 36341
+1532417906576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532417911187&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532417925295&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 74: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1532428392710	geckodriver	INFO	geckodriver 0.21.0
+1532428392716	geckodriver	INFO	Listening on 127.0.0.1:35627
+1532428393716	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gvkSLjHUa4kj"
+Error: no DISPLAY environment variable specified
+1532428439767	geckodriver	INFO	geckodriver 0.21.0
+1532428439773	geckodriver	INFO	Listening on 127.0.0.1:52459
+1532428440772	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FZnmIfydMZVa"
+1532428449939	Marionette	INFO	Listening on port 42117
+1532428450009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532428455114&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532428459162&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532428464587&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16102, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532428525401	geckodriver	INFO	geckodriver 0.21.0
+1532428525407	geckodriver	INFO	Listening on 127.0.0.1:56361
+1532428526424	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6CTou6kFUFEu"
+1532428536081	Marionette	INFO	Listening on port 38773
+1532428536163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532428540611&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532428544262&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532428549989&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532428557161&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1532429078721	geckodriver	INFO	geckodriver 0.21.0
+1532429078728	geckodriver	INFO	Listening on 127.0.0.1:59149
+1532429079725	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B8mhMfehNlVa"
+1532429093090	Marionette	INFO	Listening on port 41891
+1532429093114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532429099283&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532429102995&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532429108852&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17286, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17222, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 17222, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532431780948	geckodriver	INFO	geckodriver 0.21.0
+1532431780955	geckodriver	INFO	Listening on 127.0.0.1:32923
+1532431781967	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pg8xDo99t7gI"
+1532431794813	Marionette	INFO	Listening on port 38463
+1532431794900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532431800603&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532431805148&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532431830597&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532431847958&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+[Parent 20034, Gecko_IOThread] WARNING: pipe error (57): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532431940868	geckodriver	INFO	geckodriver 0.21.0
+1532431940875	geckodriver	INFO	Listening on 127.0.0.1:45527
+1532431941879	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dq8WlughQyVU"
+1532431951714	Marionette	INFO	Listening on port 43959
+1532431951816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532431956427&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532431960302&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532431968091&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532431983579&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432011851&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20547, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532432084216	geckodriver	INFO	geckodriver 0.21.0
+1532432084222	geckodriver	INFO	Listening on 127.0.0.1:37385
+1532432085220	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GxYtrZeDxtGF"
+1532432094627	Marionette	INFO	Listening on port 42747
+1532432094654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432099992&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432115456&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432127707&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432143457&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432148540&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432159519&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432163451&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+1532432178783	geckodriver	INFO	geckodriver 0.21.0
+1532432178789	geckodriver	INFO	Listening on 127.0.0.1:40459
+1532432179787	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RkcyiIE5ZE1y"
+1532432188993	Marionette	INFO	Listening on port 37753
+1532432189034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432193702&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432197680&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432216792&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432226449&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432243033&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432246779&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-sv%2Fid-5713891&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-sv%2Fid-5713891&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+1532432327451	geckodriver	INFO	geckodriver 0.21.0
+1532432327466	geckodriver	INFO	Listening on 127.0.0.1:60693
+1532432328460	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pgUJyXNHTNYY"
+1532432338827	Marionette	INFO	Listening on port 36161
+1532432338897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432343558&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432347020&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432366581&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22150, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532432511212	geckodriver	INFO	geckodriver 0.21.0
+1532432511217	geckodriver	INFO	Listening on 127.0.0.1:54049
+1532432512217	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GTTKlovJsdRL"
+1532432521975	Marionette	INFO	Listening on port 38799
+1532432522053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432526653&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432530381&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432540768&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432553137&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-nv%2Fid-5714445&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-nv%2Fid-5714445&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432568833&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432574538&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432599042&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432607184&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-sv%2Fid-5713891&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-sv%2Fid-5713891&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22675, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532432764782	geckodriver	INFO	geckodriver 0.21.0
+1532432764789	geckodriver	INFO	Listening on 127.0.0.1:43341
+1532432765786	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CExUG4P0PyGo"
+1532432775517	Marionette	INFO	Listening on port 34543
+1532432775531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432780304&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432785052&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+1532432860034	geckodriver	INFO	geckodriver 0.21.0
+1532432860042	geckodriver	INFO	Listening on 127.0.0.1:52265
+1532432861043	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HYT24wcPjLna"
+1532432875704	Marionette	INFO	Listening on port 46429
+1532432875799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432878981&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432895164&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432908116&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-nv%2Fid-5714445&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-nv%2Fid-5714445&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432923594&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432929562&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432946797&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432956316&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-sv%2Fid-5713891&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-sv%2Fid-5713891&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532432987680&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23279, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532433103480	geckodriver	INFO	geckodriver 0.21.0
+1532433103486	geckodriver	INFO	Listening on 127.0.0.1:60183
+1532433104489	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JlA7FLVyFjhh"
+1532433111818	Marionette	INFO	Listening on port 41989
+1532433113999	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavHistoryService.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/PlacesFeed.jsm :: removeObservers :: line 218"  data: no] Stack trace: removeObservers()@resource://activity-stream/lib/PlacesFeed.jsm:218
+onAction()@resource://activity-stream/lib/PlacesFeed.jsm:290
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/annndrey/work/upwork/SaudZulic/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/annndrey/work/upwork/SaudZulic/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+1532433114241	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0020,name=PContent::Msg_PreferenceUpdate) Closed channel: cannot send/recv
+
+[Child 23658, Chrome_ChildThread] WARNING: pipe error: Обрыв канала: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00D4,name=PContent::Msg_BackUpXResources) Channel error: cannot send/recv
+
+[Child 23658, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFFB,name=SHMEM_CREATED_MESSAGE) Channel error: cannot send/recv
+
+[Child 23658, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0075,name=PContent::Msg_InitCrashReporter) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D007F,name=PContent::Msg_PPrintingConstructor) Channel error: cannot send/recv
+
+IPDL protocol error: constructor for actor failed
+1532433121106	geckodriver	INFO	geckodriver 0.21.0
+1532433121112	geckodriver	INFO	Listening on 127.0.0.1:40721
+1532433122112	mozrunner::runner	INFO	Running command: "../firefox/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rjwgwsd1xGa4"
+1532433132000	Marionette	INFO	Listening on port 42435
+1532433132089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433136655&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flogin&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flogin&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433140892&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2F&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2F&ref=https%3A%2F%2Fwww.boligportal.dk%2Flogin&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433161039&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind&ref=https%3A%2F%2Fwww.boligportal.dk%2F&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433173575&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-nv%2Fid-5714445&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-nv%2Fid-5714445&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433188654&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433194992&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F4-vaerelses-lejlighed-valby%2Fid-5714031&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433209572&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433217802&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-sv%2Fid-5713891&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-koebenhavn-sv%2Fid-5713891&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433233234&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&ref=&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://px.ads.linkedin.com/collect/?time=1532433239585&pid=56120&url=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-frederiksberg%2Fid-5713774&pageUrl=https%3A%2F%2Fwww.boligportal.dk%2Flejebolig%2Fdp%2F2-vaerelses-lejlighed-frederiksberg%2Fid-5713774&ref=https%3A%2F%2Fwww.boligportal.dk%2Ffind%3FplaceId%3D15%26placeIds%3D15%26housingTypes%3D3%26minRooms%3D2%26maxRent%3D10000%26id%3D728305%26sort%3Ddate&fmt=js&s=1, line 1: SyntaxError: expected expression, got '<'
+Gdk-Message: 14:55:06.582: firefox: Fatal IO error 11 (Ресурс временно недоступен) on X server localhost:10.0.
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23827, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

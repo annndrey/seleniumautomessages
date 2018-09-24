@@ -1,0 +1,117 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+
+# export MOZ_HEADLESS=1 from shell 
+from pyvirtualdisplay import Display
+from selenium import webdriver
+import time
+import json
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+import time, threading
+
+
+sitemessge = "Kære udlejer, jeg er en ung mand med fast job, som søger nyt hjem. Og din lejlighed lyder fantastisk. Er der mulighed for at jeg kan kigge på den i dag eller i morgen? Mvh. Saud"
+
+def iterate_results(br, ind):
+    if ind == 3:
+        return
+    results = br.find_elements_by_class_name("Card")
+    print("Card", ind)
+
+    for i, result in enumerate(results):
+        if i < 4:
+            time.sleep(3)
+            try:
+                res_url = result.find_element_by_tag_name('a').get_attribute("href")
+                result.click()
+                time.sleep(0.5)
+                btn = browser.find_elements_by_xpath("//*[contains(text(), 'Skriv til udlejer')]")
+                if len(btn) > 0:
+                    print("Found something new")
+                    print("Sending message")
+                    btn[-1].click()
+                    time.sleep(1)
+                    browser.find_element_by_class_name("MessageBox__Input").send_keys(sitemessage)
+                    time.sleep(1)
+                    browser.find_elements_by_xpath("//*[contains(text(), 'Send')]")[-1].click()
+                    time.sleep(1)
+                    browser.find_elements_by_xpath("//*[contains(text(), 'Fortsæt')]")[-1].click()
+                    print("Message sent")
+                else:
+                    print("Nothing new, going to the next card...")
+
+                br.back()
+                ind = ind + 1
+                iterate_results(br, ind)
+
+
+            except:
+                pass
+
+
+ITER = 0
+print(0)
+display = Display(visible=0, size=(1600, 900))
+display.start()
+print(1)
+
+
+options = Options()
+options.set_headless(headless=True)
+
+browser = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver', 
+    firefox_binary='../firefox/firefox-bin')
+print(2)
+
+browser.implicitly_wait(3)
+print(3)
+
+
+# login 
+browser.get("https://www.boligportal.dk/login")
+print(4)
+
+# click on the CookieBar
+browser.find_element_by_id('CookieBarDismissButton').click()
+username = browser.find_element_by_id("username")
+password = browser.find_element_by_id("password")
+username.send_keys("yourmail@example.com")
+password.send_keys("yourpassword")
+browser.find_element_by_xpath("//*[@type='submit']").click()
+
+
+time.sleep(4)
+
+# Navigate to the search page
+browser.find_element_by_xpath('//a[@href="/find"]').click()
+browser.find_element_by_xpath("//div[@class='BoligAgentList__picker  ']").click()
+browser.find_element_by_xpath("//div[@class='BoligAgentList__dropdown__item ' and contains(., 'København, max 10.000')]").click()
+# load saved search
+time.sleep(0.5)
+
+# go to infinite loop, refresh every minute
+while True:
+    print("ITER", ITER)
+    resindex = 0
+    iterate_results(browser, resindex)
+    try:
+        print('sleeping {} secs'.format(50))
+        WebDriverWait(browser, 50).until(
+            EC.presence_of_element_located(
+                (By.XPATH, "//input[@id='non_existent_xpath']"))
+            )
+    except Exception:
+        pass
+
+    ITER = ITER + 1
+
+    element = WebDriverWait(browser, 10).until(EC.element_to_be_clickable((By.XPATH, '//a[@href="/find"]')))
+
+    element.click()
+    # browser.find_element_by_xpath('//a[@href="/find"]').click()
